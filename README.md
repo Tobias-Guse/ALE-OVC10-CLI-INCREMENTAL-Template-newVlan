@@ -1,2 +1,5 @@
 # ALE-OVC-CLI-INCREMENTAL-Template-newVlan
-creates a new VLAN + IP Address
+
+Draft 1
+OVC10 GUI/CLI Template (incremental)
+Create VLAN + IP function on an Omniswitch hardware
